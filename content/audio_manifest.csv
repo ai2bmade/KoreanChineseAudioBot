@@ -2,3 +2,5 @@ id,type,language,ko,foreign,source_file,public_file
 exp_000001,expression,Chinese,안녕,嗨,K00061_안녕_嗨.mp3,audio/public/exp_000001.ogg
 exp_000002,expression,Chinese,고마워,谢谢,K00062_고마워_谢谢.mp3,audio/public/exp_000002.ogg
 exp_000003,expression,Chinese,미안해,对不起,K00063_미안해_对不起.mp3,audio/public/exp_000003.ogg
+exp_000004,expression,Chinese,괜찮아,没事,K00064_괜찮아_没事.mp3,audio/public/exp_000004.ogg
+exp_000005,expression,Chinese,좋아요,不错,K00065_좋아요_不错.mp3,audio/public/exp_000005.ogg

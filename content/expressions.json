@@ -20,6 +20,20 @@
                             "foreign":  "对不起",
                             "language":  "Chinese",
                             "audio":  "audio/public/exp_000003.ogg"
+                        },
+                        {
+                            "id":  "exp_000004",
+                            "ko":  "괜찮아",
+                            "foreign":  "没事",
+                            "language":  "Chinese",
+                            "audio":  "audio/public/exp_000004.ogg"
+                        },
+                        {
+                            "id":  "exp_000005",
+                            "ko":  "좋아요",
+                            "foreign":  "不错",
+                            "language":  "Chinese",
+                            "audio":  "audio/public/exp_000005.ogg"
                         }
                     ]
 }
